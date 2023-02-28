@@ -9,17 +9,10 @@
 <img width="40%" align="right" alt="Github" src="https://i.pinimg.com/originals/cd/59/d6/cd59d626dc86397fe45080e6e9c7027d.gif" />
 <br>
 <p aligh="justify">
-Highly enthusiastic Computer engineer with 8 month of experience in web development.   
-
-He always learning the best practices to improve solutions as a professional.
-
-He really enjoy explorer new technologies, standards and methods that allow him to develop modern and powerful applications.
-
-He really like being able to understand the problems to provide an optimal solution.
-
-He always willing to learn more, since curiosity is a quality that characterizes him because he always want to know in an integral, specific and general way about some software that wants to be developed.
+Soy un desarrollador con perfil full stack orientado al frontend y backend.
+tengo 1 año de experiencia desarrollando app web. Me considero proactivo con ganas de aprender, con excelente comunicación interpersonales y liderazgo..
   
-📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/uc?export=download&id=1ePErcuf0JqT1csyJwc_boO6BFSYoDeeF) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Por favor, eche un vistazo a mi  [Résumé](#) para obtener más detalles sobre mí. ¡Estoy abierto a comentarios y sugerencias!
   
 </p>
 </div>
@@ -27,25 +20,21 @@ He always willing to learn more, since curiosity is a quality that characterizes
 
 <h3 align="left">🤝🏻 &nbsp;Connect with Me</h3> 
 <p align="center">
-<a href="https://twitter.com/JuanParraIV" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="JuanParraIV" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/juanparraiv/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="JuanParraIV" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://instagram.com/juanmarioparra" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="juanmarioparra" height="50" width="50" /></a>
+<a href="#" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/pablo-farias-gallardo-3355a8b8/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="JuanParraIV" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="#" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="#" height="50" width="50" /></a>
 </p>
 <hr>
 
 <h3 align="left">⚙️ &nbsp;GitHub Analytics</h3>
 <p align="center">
-<a href="https://github.com/JuanParraIV">
+<a href="https://github.com/pablofarias1987">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JuanParraIV&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JuanParraIV&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 <hr>
 
-### 🎧 &nbsp;Spotify Playing 
-
-![Spotify](https://novatorem.vercel.app/api/spotify)
-<br/>
 <hr>
 
 <h3 align="left">🛠 &nbsp;Featured Skills</h3>
