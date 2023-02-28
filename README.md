@@ -1,12 +1,12 @@
 <div align="center">
-<img width="100%" height = "250px" src="https://i0.wp.com/cinde.es/blog/wp-content/uploads/2017/10/giphy.gif?resize=500%2C281" alt="cover" />
+<img width="100%" height = "250px" src="https://diocesanos.es/blogs/equipotic/wp-content/uploads/sites/2/2020/06/banner_2_opt2.gif" alt="cover" />
 </div>
 
 # **Hi there, I'm [Pablo Farias Gallardo](https://www.linkedin.com/in/pablo-farias-gallardo-3355a8b8/)** <img width="45" src="https://user-images.githubusercontent.com/76783198/182454378-115c3a2e-50cc-490e-85f0-fbdfab7f36ba.gif" alt="holis">  ![visitors](https://visitor-badge.glitch.me/badge?page_id=juanparraiv.juanparraiv)
 
 ### 👨🏻‍💻 &nbsp;About Me
 <div>
-<img width="40%" align="right" alt="Github" src="https://diocesanos.es/blogs/equipotic/wp-content/uploads/sites/2/2020/06/banner_2_opt2.gif" />
+<img width="40%" align="right" alt="Github" src="https://i.pinimg.com/originals/cd/59/d6/cd59d626dc86397fe45080e6e9c7027d.gif" />
 <br>
 <p aligh="justify">
 Highly enthusiastic Computer engineer with 8 month of experience in web development.   
