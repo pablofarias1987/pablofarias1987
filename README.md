@@ -2,7 +2,7 @@
 <img width="100%" height = "250px" src="https://diocesanos.es/blogs/equipotic/wp-content/uploads/sites/2/2020/06/banner_2_opt2.gif" alt="cover" />
 </div>
 
-# **Hi there, I'm [Pablo Farias Gallardo](https://www.linkedin.com/in/pablo-farias-gallardo-3355a8b8/)** <img width="45" src="https://user-images.githubusercontent.com/76783198/182454378-115c3a2e-50cc-490e-85f0-fbdfab7f36ba.gif" alt="holis">  ![visitors](https://visitor-badge.glitch.me/badge?page_id=juanparraiv.juanparraiv)
+# **Hi there, I'm [Pablo Farias Gallardo](https://www.linkedin.com/in/pablo-farias-gallardo-3355a8b8/)** <img width="45" src="https://user-images.githubusercontent.com/76783198/182454378-115c3a2e-50cc-490e-85f0-fbdfab7f36ba.gif" alt="holis">  ![visitors]
 
 ### 👨🏻‍💻 &nbsp;About Me
 <div>
@@ -23,15 +23,6 @@ tengo 1 año de experiencia desarrollando app web. Me considero proactivo con ga
 <a href="#" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/pablo-farias-gallardo-3355a8b8/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="JuanParraIV" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="#" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="#" height="50" width="50" /></a>
-</p>
-<hr>
-
-<h3 align="left">⚙️ &nbsp;GitHub Analytics</h3>
-<p align="center">
-<a href="https://github.com/pablofarias1987">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JuanParraIV&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JuanParraIV&layout=compact&langs_count=8&theme=algolia"/>
-</a>
 </p>
 <hr>
 
