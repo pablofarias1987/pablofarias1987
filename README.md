@@ -2,7 +2,7 @@
 <img width="100%" height = "250px" src="https://diocesanos.es/blogs/equipotic/wp-content/uploads/sites/2/2020/06/banner_2_opt2.gif" alt="cover" />
 </div>
 
-# **Hi there, I'm [Pablo Farias Gallardo](https://www.linkedin.com/in/pablo-farias-gallardo-3355a8b8/)** <img width="45" src="https://user-images.githubusercontent.com/76783198/182454378-115c3a2e-50cc-490e-85f0-fbdfab7f36ba.gif" alt="holis"> 
+# **Hola, Soy [Pablo Farias Gallardo](https://www.linkedin.com/in/pablo-farias-gallardo-3355a8b8/)** <img width="45" src="https://user-images.githubusercontent.com/76783198/182454378-115c3a2e-50cc-490e-85f0-fbdfab7f36ba.gif" alt="holis"> 
 
 ### 👨🏻‍💻 &nbsp;About Me
 <div>
