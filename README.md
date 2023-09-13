@@ -10,7 +10,7 @@
 <br>
 <p aligh="justify">
 Soy un desarrollador con perfil full stack orientado al frontend y backend.
-tengo 1 año de experiencia desarrollando app web. Me considero proactivo con ganas de aprender, con excelente comunicación interpersonales y liderazgo..
+tengo 1 año de experiencia desarrollando app web. Me considero proactivo con ganas de aprender, con excelente comunicación interpersonales..
   
 📄 &nbsp;Por favor, eche un vistazo a mi  [Résumé](#) para obtener más detalles sobre mí. ¡Estoy abierto a comentarios y sugerencias!
   
